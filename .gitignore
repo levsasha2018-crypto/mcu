@@ -1,4 +1,8 @@
 build/
+<<<<<<< HEAD
 *.uf2
 *.elf
 *.bin
+=======
+.vscode/
+>>>>>>> d4a6530d6b6c8a151f32014be59229cd85e9b899
