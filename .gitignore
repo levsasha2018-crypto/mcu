@@ -1,8 +1,7 @@
 build/
-<<<<<<< HEAD
-*.uf2
+*/build/
 *.elf
+*.uf2
+*.map
 *.bin
-=======
-.vscode/
->>>>>>> d4a6530d6b6c8a151f32014be59229cd85e9b899
+*.hex
